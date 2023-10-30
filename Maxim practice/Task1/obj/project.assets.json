@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim-tech-practice\\Maxim practice\\Task1\\Task1.csproj",
-      "projectName": "Task1",
-      "projectPath": "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim-tech-practice\\Maxim practice\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim\\Maxim practice\\Task1\\Practice.csproj",
+      "projectName": "Practice",
+      "projectPath": "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim\\Maxim practice\\Task1\\Practice.csproj",
       "packagesPath": "C:\\Users\\Аяз\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim-tech-practice\\Maxim practice\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim\\Maxim practice\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\NuGetPackages"
