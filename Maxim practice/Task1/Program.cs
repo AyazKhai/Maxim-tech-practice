@@ -1,5 +1,5 @@
 ﻿using System.Text;
-
+//Выполнил Хайрутдинов Аяз https://github.com/AyazKhai/Maxim-tech-practice/blob/main/Maxim%20practice/Task1/Program.cs
 namespace Practice
 {
     internal class Program
