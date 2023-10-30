@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using System.Diagnostics;
+using System.Text;
+using static System.Net.Mime.MediaTypeNames;
 //Выполнил Хайрутдинов Аяз https://github.com/AyazKhai/Maxim-tech-practice/blob/main/Maxim%20practice/Task1/Program.cs
 namespace Practice
 {
