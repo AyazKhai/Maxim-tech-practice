@@ -10,11 +10,13 @@ namespace Practice
         {
             Console.WriteLine("Введите строку");
             string arg = Console.ReadLine();
-            Task2.Print(arg);
+            Task2.Print(ref arg);
+            Task3.GetRecurLettersPrint(arg);
+
 
         }
 
-        public static string Replacer(string input)
+        public static string Replacer(ref string input)
         {
             StringBuilder result = new StringBuilder();
             if (input.Length % 2 == 0)
@@ -39,7 +41,8 @@ namespace Practice
                 }
                 result.Append(input);// Добавляем исходную строку 
             }
-            return result.ToString();
+            input = result.ToString();
+            return input;
         }
 
     }

@@ -20,7 +20,7 @@ namespace Practice
                 Если подходящая строка
                 Обработанная строка
          */
-        public static void Print(string str)
+        public static void Print(ref string str)
         {
             // Если введенная строка не является корректной строкой с буквами на английском языке в нижнем регистре
             if (!IsValidEngStringInLower(str))
@@ -31,18 +31,18 @@ namespace Practice
             else
             {
                 // Выводим обработанную строку
-                Console.WriteLine($"Обработанныя строка: {Replacer(str)}");
+                Console.WriteLine($"Обработанныя строка: {Replacer(ref str)}");
             }
         }
 
-        private static bool IsValidEngStringInLower(string input)
+        protected static bool IsValidEngStringInLower(string input)
         {
             // Если в строке есть только буквы и все буквы находятся в нижнем регистре
             if (input.All(char.IsLetter) && input.All(char.IsLower))
             {
                 foreach (char c in input)// Проверяем каждую букву строки, если она находится в диапазоне букв 'a' - 'z'
                 {
-                    if (c <= 'a' || c >= 'z')
+                    if (c < 'a' || c > 'z')
                     {
                         return false; // Если хотя бы одна буква не удовлетворяет условию, то возвращаем false
                     }
