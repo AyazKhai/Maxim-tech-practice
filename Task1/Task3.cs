@@ -39,7 +39,8 @@ namespace Practice
                     Console.WriteLine($"Буква {c.Key} встречается {c.Value} раз");
                 }
             }
-           
         }
+        
+
     }
 }

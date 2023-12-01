@@ -10,9 +10,16 @@ namespace Practice
         {
             Console.WriteLine("Введите строку");
             string arg = Console.ReadLine();
+            if(String.IsNullOrEmpty(arg)) 
+            {
+                Console.WriteLine("Введена пустая строка");
+                Environment.Exit(0);
+            }
+
             Task2.Print(ref arg);
             Task3.GetRecurLettersPrint(arg);
-
+            Task4.LongestVowStrVow(arg);
+            
 
         }
 
@@ -44,6 +51,7 @@ namespace Practice
             input = result.ToString();
             return input;
         }
+        
 
     }
 }

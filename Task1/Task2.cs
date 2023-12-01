@@ -27,11 +27,12 @@ namespace Practice
             {
                 // Выводим ошибку с символами, которые не являются английскими буквами в нижнем регистре
                 Console.WriteLine($"Ошибочные символы: {GetNonEnglishLetterInLowerCase(str)}");
+                Environment.Exit(0);
             }
             else
             {
                 // Выводим обработанную строку
-                Console.WriteLine($"Обработанныя строка: {Replacer(ref str)}");
+                Console.WriteLine($"Обработанная строка: {Replacer(ref str)}");
             }
         }
 
