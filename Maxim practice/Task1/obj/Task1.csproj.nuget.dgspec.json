@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim-tech-practice\\Maxim practice\\Task1\\Task1.csproj": {}
+    "C:\\Users\\Аяз\\Source\\Repos\\Maxim-tech-practice\\Maxim practice\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim-tech-practice\\Maxim practice\\Task1\\Task1.csproj": {
+    "C:\\Users\\Аяз\\Source\\Repos\\Maxim-tech-practice\\Maxim practice\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim-tech-practice\\Maxim practice\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\Аяз\\Source\\Repos\\Maxim-tech-practice\\Maxim practice\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim-tech-practice\\Maxim practice\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\Аяз\\Source\\Repos\\Maxim-tech-practice\\Maxim practice\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Аяз\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Аяз\\Desktop\\С гита\\Maxim-tech-practice\\Maxim practice\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\Аяз\\Source\\Repos\\Maxim-tech-practice\\Maxim practice\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\NuGetPackages"
