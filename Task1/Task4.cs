@@ -36,7 +36,7 @@ namespace Practice
             }
 
             if (leftIndex != -1)
-                Console.WriteLine(input.Substring(leftIndex, rightIndex - leftIndex + 1));//выводится строка от первой гласной буквы, длинной в разность последнего и первого индекса
+                Console.WriteLine("Наибольшая подстроку, которая начинается и заканчивается на гласную: " + input.Substring(leftIndex, rightIndex - leftIndex + 1));//выводится строка от первой гласной буквы, длинной в разность последнего и первого индекса
             else
                 return;
         }

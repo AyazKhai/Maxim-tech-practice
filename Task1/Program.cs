@@ -19,8 +19,8 @@ namespace Practice
             Task2.Print(ref arg);
             Task3.GetRecurLettersPrint(arg);
             Task4.LongestVowStrVow(arg);
-            
-
+            Task5.ChooseSort(arg);
+ 
         }
 
         public static string Replacer(ref string input)
