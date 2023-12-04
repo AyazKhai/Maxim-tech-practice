@@ -8,19 +8,23 @@ namespace Practice
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Введите строку");
-            string arg = Console.ReadLine();
+            //string arg = Console.ReadLine();
+            string arg = "ayaaz";
             if(String.IsNullOrEmpty(arg)) 
             {
                 Console.WriteLine("Введена пустая строка");
                 Environment.Exit(0);
             }
-
+            
             Task2.Print(ref arg);
             Task3.GetRecurLettersPrint(arg);
             Task4.LongestVowStrVow(arg);
             Task5.ChooseSort(arg);
- 
+            Console.WriteLine();
+            Task6.DeletLetter(arg);
+            
         }
 
         public static string Replacer(ref string input)

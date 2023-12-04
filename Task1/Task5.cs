@@ -42,6 +42,7 @@ namespace Practice
 
         public static void TreeSort(string str) 
         {
+            Console.Write($"Результат: ");
             BinaryTreeSort.SortString(str);
         }
         public static void QuickSort(string str)
@@ -49,7 +50,7 @@ namespace Practice
             char[] input = str.ToCharArray();
             QuickSort(input, 0, input.Length-1);
             str = String.Concat(input);
-            Console.WriteLine(str);
+            Console.Write($"Результат: {str}");
         }
         private static void QuickSort(char[] input, int start, int end)
         {
