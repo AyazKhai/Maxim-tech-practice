@@ -9,8 +9,7 @@ namespace Practice
         static void Main(string[] args)
         {
             Console.WriteLine("Введите строку");
-            //string arg = Console.ReadLine();
-            string arg = "ayaaz";
+            string arg = Console.ReadLine();
             if(String.IsNullOrEmpty(arg)) 
             {
                 Console.WriteLine("Введена пустая строка");
