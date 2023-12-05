@@ -8,7 +8,6 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            
             Console.WriteLine("Введите строку");
             //string arg = Console.ReadLine();
             string arg = "ayaaz";
@@ -23,8 +22,7 @@ namespace Practice
             Task4.LongestVowStrVow(arg);
             Task5.ChooseSort(arg);
             Console.WriteLine();
-            Task6.DeletLetter(arg);
-            
+            Task6.DeletLetterPrint(arg);
         }
 
         public static string Replacer(ref string input)
