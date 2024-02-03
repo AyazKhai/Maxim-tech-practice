@@ -36,7 +36,7 @@ namespace Practice
             }
         }
 
-        protected static bool IsValidEngStringInLower(string input)
+        public static bool IsValidEngStringInLower(string input)
         {
             // Если в строке есть только буквы и все буквы находятся в нижнем регистре
             if (input.All(char.IsLetter) && input.All(char.IsLower))

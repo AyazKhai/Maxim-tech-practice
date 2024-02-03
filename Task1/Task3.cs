@@ -40,7 +40,32 @@ namespace Practice
                 }
             }
         }
-        
+        public static string GetRecurLettersString(string input)
+        {
+            StringBuilder sb = new StringBuilder();
+            if (IsValidEngStringInLower(input)) //проверяет, является ли входная строка допустимой английской строкой в нижнем регистре
+            {
+                Dictionary<char, int> result = new Dictionary<char, int>();// Создаём словарь из пары ключей для символа и его количества в строке
+                foreach (char c in input)
+                {
+                    if (result.ContainsKey(c))// Если символ уже есть в словаре, увеличиваем его счетчик
+                    {
+                        result[c]++;
+                    }
+                    else
+                    {
+                        result.Add(c, 1);// Если символа нет в словаре, добавляем его со счетчиком 1
+                    }
+                }
+
+                foreach (var c in result)// Вывод символов и их количества
+                {
+                    sb.Append($"Буква {c.Key} встречается {c.Value} раз;\n ");
+                }
+
+            }
+            return sb.ToString();
+        }
 
     }
 }

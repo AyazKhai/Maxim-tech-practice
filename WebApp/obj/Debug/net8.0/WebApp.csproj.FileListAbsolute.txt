@@ -1,0 +1,76 @@
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.csproj.CopyComplete
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\Practice.deps.json
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\Practice.runtimeconfig.json
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\Practice.exe
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\Practice.dll
+C:\Users\Аяз\Desktop\С гита\Maximm\WebApp\bin\Debug\net8.0\Practice.pdb
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\appsettings.json
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Practice.deps.json
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Practice.runtimeconfig.json
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Practice.exe
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\WebApp.exe
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\WebApp.deps.json
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\WebApp.dll
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\WebApp.pdb
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Practice.dll
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Practice.pdb
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.csproj.CopyComplete
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.dll
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.pdb
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\ref\WebApp.dll

@@ -39,7 +39,13 @@ namespace Practice
                     break;
             }
         }
-
+        public static string QuickSortString(string str)
+        {
+            char[] input = str.ToCharArray();
+            QuickSort(input, 0, input.Length - 1);
+            str = String.Concat(input);
+            return str;
+        }
         public static void TreeSort(string str) 
         {
             Console.Write($"Результат: ");

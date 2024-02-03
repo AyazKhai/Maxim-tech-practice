@@ -54,3 +54,19 @@ C:\Users\Аяз\Desktop\С гита\Maximm\Task1\obj\Debug\net6.0\refint\Practic
 C:\Users\Аяз\Desktop\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.pdb
 C:\Users\Аяз\Desktop\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.genruntimeconfig.cache
 C:\Users\Аяз\Desktop\С гита\Maximm\Task1\obj\Debug\net6.0\ref\Practice.dll
+C:\Users\Аяз\Desktop\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.sourcelink.json
+D:\Рабочий стол\С гита\Maximm\Task1\bin\Debug\net6.0\Practice.exe
+D:\Рабочий стол\С гита\Maximm\Task1\bin\Debug\net6.0\Practice.deps.json
+D:\Рабочий стол\С гита\Maximm\Task1\bin\Debug\net6.0\Practice.runtimeconfig.json
+D:\Рабочий стол\С гита\Maximm\Task1\bin\Debug\net6.0\Practice.dll
+D:\Рабочий стол\С гита\Maximm\Task1\bin\Debug\net6.0\Practice.pdb
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.sourcelink.json
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.dll
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\refint\Practice.dll
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.pdb
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\ref\Practice.dll

@@ -27,7 +27,14 @@ namespace Practice
             // Выводим результат
             Console.WriteLine($"Строка с удаленным символом по индексу {rnd}: {input}");
         }
-
+        public static string DeletLetterString(string input)
+        {
+            if (input.Length == 0) return null;// Если строка пустая, выходим из метода
+            int rnd = GetRandomNum(0, input.Length);// Генерируем случайное число в диапазоне от 1 до длины строки
+            input = input.Remove(rnd, 1); // Удаляем символ из строки по индексу
+            // Выводим результат
+            return $"Строка с удаленным символом по индексу {rnd}: {input}";
+        }
         public static int GetRandomNum(int min, int max)
         {
             int randomNum;
