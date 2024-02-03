@@ -70,3 +70,6 @@ D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\refint\Prac
 D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.pdb
 D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.genruntimeconfig.cache
 D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\ref\Practice.dll
+D:\Рабочий стол\С гита\Maximm\Task1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.csproj.AssemblyReference.cache
+D:\Рабочий стол\С гита\Maximm\Task1\obj\Debug\net6.0\Practice.csproj.CopyComplete

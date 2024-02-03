@@ -74,3 +74,4 @@ D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\refint\Web
 D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.pdb
 D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
 D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll

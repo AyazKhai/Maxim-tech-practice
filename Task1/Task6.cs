@@ -35,7 +35,7 @@ namespace Practice
             // Выводим результат
             return $"Строка с удаленным символом по индексу {rnd}: {input}";
         }
-        public static int GetRandomNum(int min, int max)
+        private static int GetRandomNum(int min, int max)
         {
             int randomNum;
             try

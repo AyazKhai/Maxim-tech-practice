@@ -1,3 +1,5 @@
+using WebApp;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -18,7 +20,6 @@ if (app.Environment.IsDevelopment())
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
     });
 }
-
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

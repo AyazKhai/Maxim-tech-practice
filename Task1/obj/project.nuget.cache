@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bLHisUiC42oBP4CyfqDtJ3FhRdzOaI4pJr+khRzOGyUalaLM8jxVlM1A/S522isAXFFC/2KdTw9NcCy5s1jE+Q==",
+  "dgSpecHash": "gXOi6KiuX+Q9CLvEiUc0H+SHaeZ3LK/xAPhwoNPlpj3AojI96h0gBPGGJBX8pcuWWyf4tfu0EMU7UZiMEUv6nQ==",
   "success": true,
   "projectFilePath": "D:\\Рабочий стол\\С гита\\Maximm\\Task1\\Practice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Аяз\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

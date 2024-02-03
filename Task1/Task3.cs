@@ -60,7 +60,7 @@ namespace Practice
 
                 foreach (var c in result)// Вывод символов и их количества
                 {
-                    sb.Append($"Буква {c.Key} встречается {c.Value} раз;\n ");
+                    sb.Append($"{c.Key} {c.Value}; ");
                 }
 
             }
