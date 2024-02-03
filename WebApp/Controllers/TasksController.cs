@@ -33,13 +33,14 @@ namespace WebApp.Controllers
             }
 
             string coveredStr = Task1.Replacer(ref input);// Обработанная строка
-            string duoSymbols = Task3.GetRecurLettersString(coveredStr);// получение строки с повторяющимися символами.
+
+            var duoSymbols = await Task3.GetRecurLettersArrayAsync(coveredStr);// получение массива с повторяющимися символами.
+
             string LongestVowels = Task4.LongestVowStrVowString(coveredStr);// Вызов метода Task4.LongestVowStrVowString для получения самой длинной подстроки, состоящей из гласных.
             string sortedstr = Task5.QuickSortString(coveredStr); // Быстрая соритровка 
 
             var random = new GetRandom(_configuration);
             string withoutSymStr = await random.GetSymblessStr(coveredStr);// Вызов для удаления букв из строки.
-            
             var result = new// Создание анонимного объекта с результатами обработки строки и возврат ответа в формате JSON.
             {
                 coveredStr,

@@ -66,6 +66,35 @@ namespace Practice
             }
             return sb.ToString();
         }
+        public static async Task<string[]> GetRecurLettersArrayAsync(string input)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            if (IsValidEngStringInLower(input))
+            {
+                Dictionary<char, int> result = new Dictionary<char, int>();
+
+                await Task.Run(() =>
+                {
+                    foreach (char c in input)
+                    {
+                        if (result.ContainsKey(c))
+                        {
+                            result[c]++;
+                        }
+                        else
+                        {
+                            result.Add(c, 1);
+                        }
+                    }
+                });
+
+                return result.Select(c => $"{c.Key} {c.Value}").ToArray();
+            }
+
+            return new string[] { };
+        }
+
 
     }
 }

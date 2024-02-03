@@ -75,3 +75,42 @@ D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.pdb
 D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
 D:\Рабочий стол\С гита\Maximm\WebApp\obj\Debug\net8.0\ref\WebApp.dll
 D:\Рабочий стол\С гита\Maximm\WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\Practice.deps.json
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\Practice.runtimeconfig.json
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\Practice.exe
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\Practice.dll
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\bin\Debug\net8.0\Practice.pdb
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.csproj.CopyComplete
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Users\ayazh\Source\Repos\Maxim-tech-practice\WebApp\obj\Debug\net8.0\ref\WebApp.dll
