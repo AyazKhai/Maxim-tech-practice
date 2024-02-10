@@ -1,4 +1,6 @@
+using Microsoft.Extensions.Configuration;
 using WebApp;
+using WebApp.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,7 +22,10 @@ if (app.Environment.IsDevelopment())
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
     });
 }
+
 app.UseHttpsRedirection();
+
+app.UseMiddleware<RequestLimitMiddleware>();//добавление мидлвар
 
 app.UseAuthorization();
 

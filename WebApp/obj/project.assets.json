@@ -499,23 +499,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ayazh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Аяз\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayazh\\Source\\Repos\\Maxim-tech-practice\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "D:\\Рабочий стол\\С гита\\Maximm\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\ayazh\\Source\\Repos\\Maxim-tech-practice\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\ayazh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayazh\\Source\\Repos\\Maxim-tech-practice\\WebApp\\obj\\",
+      "projectPath": "D:\\Рабочий стол\\С гита\\Maximm\\WebApp\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\Аяз\\.nuget\\packages\\",
+      "outputPath": "D:\\Рабочий стол\\С гита\\Maximm\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ayazh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Аяз\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -531,8 +531,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ayazh\\Source\\Repos\\Maxim-tech-practice\\Task1\\Practice.csproj": {
-              "projectPath": "C:\\Users\\ayazh\\Source\\Repos\\Maxim-tech-practice\\Task1\\Practice.csproj"
+            "D:\\Рабочий стол\\С гита\\Maximm\\Task1\\Practice.csproj": {
+              "projectPath": "D:\\Рабочий стол\\С гита\\Maximm\\Task1\\Practice.csproj"
             }
           }
         }
@@ -541,9 +541,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {

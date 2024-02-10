@@ -18,10 +18,10 @@ namespace WebApp
         /// </summary>
         /// <param name="inputString">входная строка</param>
         /// <returns>измененную строку и индекс удаленного символа</returns>
-        public async Task<string> GetSymblessStr(string inputString)
+        public async Task<string> GetSymblessStrAsync(string inputString)
         {
             string apiUrl = _configuration["AppUrl"];
-            int randomNumber = await GetRandomNum(0, inputString.Length); // Проверка на получение рандомного числа
+            int randomNumber = await GetRandomNumAsync(0, inputString.Length); // Проверка на получение рандомного числа
             inputString = inputString.Remove(randomNumber, 1);
             return $"{inputString},{randomNumber}";
         }
@@ -33,7 +33,7 @@ namespace WebApp
         /// <param name="min">Минимальное значение для генерации случайного числа</param>
         /// <param name="max">Максимальное значение для генерации случайного числа</param>
         /// <returns>Случайное число</returns>
-        public async Task<int> GetRandomNum( int min, int max)
+        public async Task<int> GetRandomNumAsync( int min, int max)
         {
             try
             {

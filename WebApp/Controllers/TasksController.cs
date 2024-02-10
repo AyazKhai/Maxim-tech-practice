@@ -2,6 +2,9 @@
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 using Practice;
+using System.Threading;
+using Microsoft.Extensions.Configuration;
+using System.Net;
 
 namespace WebApp.Controllers
 {
@@ -22,8 +25,8 @@ namespace WebApp.Controllers
         public async Task<IActionResult> ProcessString([FromQuery][Required] string input)
         {
             string[] blacklist = _configuration.GetSection("iisSettings:BlackList").Get<string[]>(); // Перенос черного списка из конфигуратора в массив
-            
-            if (!Task2.IsValidEngStringInLower(input) ) // Проверка, что входная строка является допустимой английской строкой в нижнем регистре.
+
+            if (!Task2.IsValidEngStringInLower(input)) // Проверка, что входная строка является допустимой английской строкой в нижнем регистре.
             {
                 return BadRequest("HTTP ошибка 400 Bad Request. Invalid input string.");
             }
@@ -31,6 +34,7 @@ namespace WebApp.Controllers
             {
                 return BadRequest("HTTP ошибка 400 Bad Request. Слово находится в чёрном списке.");
             }
+            
 
             string coveredStr = Task1.Replacer(ref input);// Обработанная строка
 
@@ -40,7 +44,7 @@ namespace WebApp.Controllers
             string sortedstr = Task5.QuickSortString(coveredStr); // Быстрая соритровка 
 
             var random = new GetRandom(_configuration);
-            string withoutSymStr = await random.GetSymblessStr(coveredStr);// Вызов для удаления букв из строки.
+            string withoutSymStr = await random.GetSymblessStrAsync(coveredStr);// Вызов для удаления букв из строки.
             var result = new// Создание анонимного объекта с результатами обработки строки и возврат ответа в формате JSON.
             {
                 coveredStr,
@@ -52,4 +56,5 @@ namespace WebApp.Controllers
             return Ok(result);
         }
     }
+
 }
