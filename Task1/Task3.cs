@@ -42,6 +42,11 @@ namespace Practice
         }
         public static string GetRecurLettersString(string input)
         {
+            if (input == null)
+            {
+                // Если входная строка null, возвращаем пустой массив
+                return "";
+            }
             StringBuilder sb = new StringBuilder();
             if (IsValidEngStringInLower(input)) //проверяет, является ли входная строка допустимой английской строкой в нижнем регистре
             {
@@ -68,6 +73,12 @@ namespace Practice
         }
         public static async Task<string[]> GetRecurLettersArrayAsync(string input)
         {
+            if (input == null)
+            {
+                // Если входная строка null, возвращаем пустой массив
+                return new string[] { };
+            }
+
             StringBuilder sb = new StringBuilder();
 
             if (IsValidEngStringInLower(input))

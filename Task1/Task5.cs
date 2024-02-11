@@ -112,7 +112,7 @@ namespace Practice
     }
 
     // Класс для сортировки строк с использованием бинарного дерева
-    class BinaryTreeSort 
+    public class BinaryTreeSort 
     {
         private Node root;  // корень дерева
         // Статический метод для сортировки строки

@@ -17,7 +17,7 @@ namespace Practice
             
             Task2.Print(ref arg);
             Task3.GetRecurLettersPrint(arg);
-            Task4.LongestVowStrVow(arg);
+            Task4.LongestVowStrVowPrint(arg);
             Task5.ChooseSort(arg);
             Console.WriteLine();
             Task6.DeletLetterPrint(arg);
@@ -25,8 +25,15 @@ namespace Practice
 
         public static string Replacer(ref string input)
         {
+            // Проверяем на null
+            if (input == null)
+            {
+                // Возвращаем null без изменений
+                return null;
+            }
+
             StringBuilder result = new StringBuilder();
-            if (input.Length % 2 == 0)
+            if (input.Length % 2 == 0 )
             {
                 //Переворачиваем первую половину
                 for (int i = input.Length / 2 - 1; i >= 0; i--)

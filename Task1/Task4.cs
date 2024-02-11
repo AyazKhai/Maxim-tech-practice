@@ -18,12 +18,13 @@ namespace Practice
                abcdef => cbafed
                abcde => edcbaabcde
         */
-        public static void LongestVowStrVow(string input) 
+        public static void LongestVowStrVowPrint(string input) 
         {
-
+            Console.WriteLine("Наибольшая подстрока, которая начинается и заканчивается на гласную: " + LongestVowStrVowString(input));
+            /*
             int leftIndex = -1;
             int rightIndex = -1;
-            for (int i = 0;i< input.Length;i++) 
+            for (int i = 0; i < input.Length; i++)
             {
                 if ("aeiouy".Contains(input[i]))
                 {
@@ -39,6 +40,7 @@ namespace Practice
                 Console.WriteLine("Наибольшая подстроку, которая начинается и заканчивается на гласную: " + input.Substring(leftIndex, rightIndex - leftIndex + 1));//выводится строка от первой гласной буквы, длинной в разность последнего и первого индекса
             else
                 return;
+            */
         }
         public static string LongestVowStrVowString(string input)
         {
@@ -58,7 +60,7 @@ namespace Practice
             }
             string result;
             if (leftIndex != -1)
-                return result = ("Наибольшая подстрока, которая начинается и заканчивается на гласную: " + input.Substring(leftIndex, rightIndex - leftIndex + 1));//выводится строка от первой гласной буквы, длинной в разность последнего и первого индекса
+                return result =  input.Substring(leftIndex, rightIndex - leftIndex + 1);//выводится строка от первой гласной буквы, длинной в разность последнего и первого индекса
             else
                 return null;
         }
